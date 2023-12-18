@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ma.eheio</groupId>
+  <artifactId>WebAppMaven</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231124091744</lastUpdated>
+  </versioning>
+</metadata>
